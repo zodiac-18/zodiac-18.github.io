@@ -101,10 +101,10 @@ export const content = {
         },
         {
           authors: 'K. Ogita, R. Yoneyama, W.-C. Huang, T. Toda',
-          title: '"Evaluating VAE-SiFiGAN under Large-Scale Training and Noisy Conditions with Data Selection Using F₀ Extraction Error Estimation,"',
-          venue: 'Proc. EUSIPCO, Bruges, Belgium, Sep. 2026.',
-          badge: 'in press',
-          link: null,
+          title: '"Evaluating VAE-SiFiGAN under large-scale training and noisy conditions with data selection using F0 extraction error estimation,"',
+          venue: 'Proc. EUSIPCO, pp. 466–470, Bruges, Belgium, Sep. 2026.',
+          badge: null,
+          link: 'https://www.eurasip.org/Proceedings/Eusipco/Eusipco2026/pdfs/0000466.pdf',
           selfName: 'K. Ogita',
         },
         {
@@ -255,10 +255,10 @@ export const content = {
         },
         {
           authors: 'K. Ogita, R. Yoneyama, W.-C. Huang, T. Toda',
-          title: '"Evaluating VAE-SiFiGAN under Large-Scale Training and Noisy Conditions with Data Selection Using F₀ Extraction Error Estimation,"',
-          venue: 'Proc. EUSIPCO, Bruges, Belgium, Sep. 2026.',
-          badge: 'in press',
-          link: null,
+          title: '"Evaluating VAE-SiFiGAN under large-scale training and noisy conditions with data selection using F0 extraction error estimation,"',
+          venue: 'Proc. EUSIPCO, pp. 466–470, Bruges, Belgium, Sep. 2026.',
+          badge: null,
+          link: 'https://www.eurasip.org/Proceedings/Eusipco/Eusipco2026/pdfs/0000466.pdf',
           selfName: 'K. Ogita',
         },
         {
