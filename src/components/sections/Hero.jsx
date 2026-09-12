@@ -26,7 +26,10 @@ export default function Hero() {
           <div className="hero-image-wrap" ref={imageRef}>
             <img className="hero-photo" src="/profile.jpg" alt="Kenichi Ogita" />
           </div>
-          <h1 className="hero-title" ref={titleRef}>Kenichi Ogita</h1>
+          <h1 className="hero-title" ref={titleRef}>
+            Kenichi Ogita
+            <span className="hero-name-ja">荻田 健一</span>
+          </h1>
           <p className="hero-subtitle" ref={subtitleRef}>{t.hero.subtitle}</p>
           <div className="social-links" ref={socialRef}>
             <a href="https://github.com/zodiac-18" target="_blank" rel="noopener noreferrer" aria-label="GitHub">

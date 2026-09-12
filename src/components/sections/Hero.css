@@ -55,6 +55,15 @@
   color: var(--text-primary);
 }
 
+.hero-name-ja {
+  display: block;
+  font-size: 1.35rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+  letter-spacing: 0.08em;
+  margin-top: 0.5rem;
+}
+
 .hero-subtitle {
   font-size: 1.25rem;
   color: var(--text-secondary);
