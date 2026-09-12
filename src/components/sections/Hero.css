@@ -29,8 +29,8 @@
 /* Photo */
 .hero-photo-placeholder,
 .hero-photo {
-  width: 200px;
-  height: 200px;
+  width: 260px;
+  height: 260px;
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 2rem;
@@ -98,12 +98,12 @@
 }
 
 @media (max-width: 768px) {
-  .hero-photo-placeholder, .hero-photo { width: 150px; height: 150px; font-size: 2rem; }
+  .hero-photo-placeholder, .hero-photo { width: 190px; height: 190px; font-size: 2rem; }
   .hero-title { font-size: 2.5rem; }
   .hero-subtitle { font-size: 1.1rem; }
 }
 
 @media (max-width: 480px) {
-  .hero-photo-placeholder, .hero-photo { width: 120px; height: 120px; }
+  .hero-photo-placeholder, .hero-photo { width: 160px; height: 160px; }
   .hero-title { font-size: 2rem; }
 }
