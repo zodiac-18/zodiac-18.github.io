@@ -146,7 +146,7 @@ export const content = {
       desc: 'お気軽にご連絡ください。',
       email: 'kenogita1811 [at] gmail.com',
       links: [
-        { label: 'GitHub', url: 'https://github.com/zodiac_18', icon: 'github' },
+        { label: 'GitHub', url: 'https://github.com/zodiac-18', icon: 'github' },
         { label: 'LinkedIn', url: 'https://www.linkedin.com/in/kenichi-ogita-336ab2274/', icon: 'linkedin' },
         { label: 'AtCoder', url: 'https://atcoder.jp/users/lunz_0d', icon: 'atcoder' },
       ],
@@ -300,7 +300,7 @@ export const content = {
       desc: "Feel free to reach out.",
       email: 'kenogita1811 [at] gmail.com',
       links: [
-        { label: 'GitHub', url: 'https://github.com/zodiac_18', icon: 'github' },
+        { label: 'GitHub', url: 'https://github.com/zodiac-18', icon: 'github' },
         { label: 'LinkedIn', url: 'https://www.linkedin.com/in/kenichi-ogita-336ab2274/', icon: 'linkedin' },
         { label: 'AtCoder', url: 'https://atcoder.jp/users/lunz_0d', icon: 'atcoder' },
       ],

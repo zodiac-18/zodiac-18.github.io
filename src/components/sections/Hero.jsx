@@ -29,7 +29,7 @@ export default function Hero() {
           <h1 className="hero-title" ref={titleRef}>Kenichi Ogita</h1>
           <p className="hero-subtitle" ref={subtitleRef}>{t.hero.subtitle}</p>
           <div className="social-links" ref={socialRef}>
-            <a href="https://github.com/zodiac_18" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+            <a href="https://github.com/zodiac-18" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
               <i className="fab fa-github" />
             </a>
             <a href="https://www.linkedin.com/in/kenichi-ogita-336ab2274/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
